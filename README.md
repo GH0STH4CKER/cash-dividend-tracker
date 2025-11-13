@@ -32,7 +32,8 @@ Track **recent and past dividend announcements** of your favorite stocks in real
 
 ### Recent Dividends:
 <img width="1702" height="928" alt="screencapture-cash-div-lovable-app-2025-11-13-18_58_3822" src="https://github.com/user-attachments/assets/22708711-bc36-46d4-a6c0-bc19e2fffb22" />
-### Past Dividends :
+
+### Past Dividends:
 <img width="1920" height="993" alt="screencapture-cash-div-lovable-app-2025-11-13-18_59_28" src="https://github.com/user-attachments/assets/780202d9-3a2d-4404-bfa1-99e72e279b3d" />
 
 
