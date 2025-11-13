@@ -39,31 +39,22 @@ Track **recent and past dividend announcements** of your favorite stocks in real
 
 
 ---
-
 ## Technologies Used
 
-- HTML / CSS / JavaScript (Frontend)
-- [Optional: Flask / Django / Node.js if Backend]
-- APIs for stock dividend data (if any)
-- Responsive design for desktop and mobile
+- HTML / CSS / JavaScript (Frontend, built with **Lovable Website Builder**)  
+- Vercel-hosted backend (code on GitHub)  
+- Unofficial **Colombo Stock Exchange (CSE) API** for dividend data  
+- Responsive design for desktop and mobile  
 
 ---
-
-## Installation / Setup (Optional if you want people to run locally)
-
-```bash
-git clone https://github.com/YOUR_USERNAME/cash-dividend-tracker.git
-cd cash-dividend-tracker
-# Open index.html in browser or run your backend
-```
 
 ---
 
 ## How it Works
 
-- Type a company name or symbol in the search box.  
-- Dropdown shows all matching securities.  
-- Click on a security to see **recent and past dividends**.  
+- Recent Dividends will load automatically when you open website
+- Access Past Dividend with the seperate tab (optional)
+- Type a company name or symbol in the search box 
 - Dividend Yield for recent announcements is calculated as:
 
 ```
